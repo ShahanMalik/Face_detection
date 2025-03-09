@@ -6,7 +6,7 @@ This repository contains a YOLO-based face detection model trained on a custom d
 
 ## Dataset
 
-The model was trained using the [Face Detection Dataset](https://www.kaggle.com/datasets/fareselmenshawii/face-detection-dataset) from Kaggle. The dataset includes diverse images for robust face detection.
+The model was fine-tuned using the [Face Detection Dataset](https://www.kaggle.com/datasets/fareselmenshawii/face-detection-dataset) from Kaggle. The dataset includes diverse images for robust face detection.
 
 ---
 
