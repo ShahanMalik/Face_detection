@@ -2,6 +2,8 @@
 
 This repository contains a YOLO-based face detection model trained on a custom dataset. The model can detect faces in images or video streams with high accuracy.
 
+You can see the live demo of the model [here](https://huggingface.co/spaces/shahanmalik/face-detection).
+
 ---
 
 ## Dataset
@@ -23,3 +25,4 @@ The model uses the **YOLO (You Only Look Once)** framework, a state-of-the-art o
 - Easily customizable for other object detection tasks.
 
 ---
+
